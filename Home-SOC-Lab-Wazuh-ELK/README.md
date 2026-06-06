@@ -1,5 +1,5 @@
 ### 🎯 Objective
-Build a fully functional home SIEM environment to practise real Tier 1 SOC analyst workflows — monitoring endpoints, tuning detection rules, and triaging alerts using the MITRE ATT&CK framework.
+Built a fully functional home SIEM environment to practise real Tier 1 SOC analyst workflows — monitoring endpoints, tuning detection rules, and triaging alerts using the MITRE ATT&CK framework.
 
 ### 🛠️ Tools Used
 - **SIEM:** Wazuh + ELK Stack (Elasticsearch, Logstash, Kibana)
