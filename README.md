@@ -3,7 +3,7 @@
 **SOC Analyst L1 | SIEM | Threat Detection | Incident Response**
 
 📧 prabhujoyal182@gmail.com | 📍 Bangalore, India
- 🔗 [TryHackMe](https://tryhackme.com/p/joyal)
+ 🔗
 
 ---
 
