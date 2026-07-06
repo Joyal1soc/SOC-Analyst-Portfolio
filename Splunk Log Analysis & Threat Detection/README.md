@@ -8,7 +8,7 @@ Practise enterprise-grade log analysis using Splunk SPL to detect security threa
 - **Framework:** MITRE ATT&CK
 
 ### 🔧 What I Did
-- Ingested 10,000+ security logs from Windows and Linux sources
+- Ingested 5,000+ security logs from Windows and Linux sources
 - Wrote SPL queries to detect:
   - Brute-force login attempts
   - Lateral movement patterns
